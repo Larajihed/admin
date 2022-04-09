@@ -1,0 +1,17 @@
+tr:hover{
+  background-color: rgb(206, 206, 206);
+  cursor: pointer;
+  
+}
+
+.position{
+  margin-left: 250px;
+  margin-top: 25px;
+  
+}
+
+th:nth-child(3){
+  background-color:red;
+  width: 20%;
+}
+
